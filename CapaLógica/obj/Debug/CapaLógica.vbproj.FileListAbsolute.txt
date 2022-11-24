@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\bin\Debug\CapaLógica.dll
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\bin\Debug\CapaLógica.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\bin\Debug\CapaLógica.xml
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.vbprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.vbproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.dll
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.xml
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaLógica\obj\Debug\CapaLógica.pdb

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaLógica.dll
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaLógica.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\bin\Debug\CapaLógica.xml
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Lenovo\OneDrive\Desktop\Sistema para Postular\Sistema en Capas\CapaDatos\obj\Debug\CapaDatos.pdb
